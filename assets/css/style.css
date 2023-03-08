@@ -1,5 +1,5 @@
 /* ============
-Global Css
+Global 
 ============== */
 
 body {
@@ -8,9 +8,6 @@ body {
   background-color: #F9F9FF;
 }
 
-/* ============
-Resusable Css
-============== */
 
 .sub-heading {
   color: #707070;
@@ -18,7 +15,7 @@ Resusable Css
 }
 
 /* ============
-header Css
+header 
 ============== */
 
 header {
@@ -149,7 +146,7 @@ nav a {
 }
 
 /* ============
-banner Css
+banner
 ============== */
 
 #banner {
@@ -197,7 +194,7 @@ banner Css
 }
 
 /* ============
-Services Css
+Services 
 ============== */
 
 .service {
@@ -208,7 +205,7 @@ Services Css
 }
 
 /* ============
-whyus Css
+whyus 
 ============== */
 
 #Whyus {
@@ -239,7 +236,7 @@ whyus Css
 }
 
 /* ============
-Goals Css
+Goals 
 ============== */
 
 .xp {
@@ -268,7 +265,7 @@ Goals Css
 }
 
 /* ============
-portfolio Css
+portfolio 
 ============== */
 
 #portfolio {
@@ -284,7 +281,7 @@ portfolio Css
 }
 
 /* ============
-testimonial Css
+testimonial 
 ============== */
 
 .readmore {
@@ -312,7 +309,7 @@ testimonial Css
 }
 
 /* ============
-contact Css
+contact 
 ============== */
 
 .contact-box {
@@ -351,7 +348,7 @@ contact Css
 }
 
 /* ============
-footer Css
+footer 
 ============== */
 
 .footer-logo-text {
@@ -474,7 +471,7 @@ footer Css
 }
 
 /* ===============
-Resposnsive Css
+Resposnsive 
 =============== */
 
 @media (min-width:1650px) {
@@ -559,6 +556,10 @@ Resposnsive Css
     transform: translateY(32%);
   }
 }
+
+/* ===============
+Fonts 
+=============== */
 
 .font-1 {
   font-weight: bold;
