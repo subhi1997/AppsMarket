@@ -238,6 +238,9 @@ whyus
 /* ============
 Goals 
 ============== */
+.xp-info {
+    margin-left: 9px;
+}
 
 .xp {
   color: #0D13D7;
@@ -515,6 +518,7 @@ Resposnsive
   }
 }
 
+
 @media (min-width: 576px) {
   .review-img {
     margin-left: 90px;
@@ -535,6 +539,38 @@ Resposnsive
   }
 }
 
+@media (max-width:758px) {
+  .service-name {
+    font-size: 25px;
+  }
+}
+
+@media (max-width:758px) {
+  .section-heading {
+    font-size: 28px;
+  }
+}
+
+@media (max-width:758px) {
+  .sub-heading {
+    font-size: 15px;
+  }
+}
+
+@media (max-width:758px) {
+  .review-img img {
+    width: 100%;
+  }
+}
+
+@media (max-width:758px) {
+  .logo-text {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 700;
+    transform: translateY(32%);
+  }
+}
 @media (min-width: 768px) {
   .text-colm-center {
     text-align: left;
@@ -631,9 +667,7 @@ Resposnsive
   }
 }
 
-.xp-info {
-    margin-left: 9px;
-}
+
 
 @media (min-width: 768px) {
   .service {
