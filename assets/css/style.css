@@ -632,10 +632,7 @@ Resposnsive
 }
 
 .xp-info {
-  margin-left: 8px;
-}
-
-div {
+    margin-left: 9px;
 }
 
 @media (min-width: 768px) {
